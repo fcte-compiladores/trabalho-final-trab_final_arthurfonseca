@@ -146,3 +146,5 @@ No diretório tests/, inclua casos como:
 
 - Não implementa recuperação de erros em tokens inválidos (lança exceção e encerra).
 
+- É obrigátorio passar expressões entre aspas ("expressão"), caso contrário, algumas expressões podem falhar.
+
